@@ -9,8 +9,9 @@ This lab will illustrate for you, just how powerful layout tools are and how muc
 ### Directions
 You are to recreate [this mockup](https://www.figma.com/proto/EGG0ERL0HRRWkXLx4hl4uH/Landing-Page-Lab-Grid?node-id=1%3A3&scaling=scale-down). This is not expected to be pixel perfect. You can customize the content and the colors but the layout should be **identical**.
 **You are not allowed to use any `display` properties other than `grid` or `flex`.** 💪🏽
-1. Fork this repo
-2. Clone it
-3. Create your html and css files
-4. Commit regularly
-5. Push up to your remote repo when complete and open a pull request to `The-Marcy-Lab-School:master` branch.
+
+  1. If this is a *Practice or Pairing Lab*, fork this repo and clone down the forked repo **OR** if this is a *Lab Assignment* that was generate using Github classroom, then your repo name will end in your username. No need to fork, just clone this repo without forking it.
+  2. Create your HTML and CSS files.
+  3. Stage, commit, and push your changes regularly.
+  4. If this is a *Lab Assignment*, submit the URL of your repo to Canvas. If this is a *Practice or Pairing Lab*, you can open a PR to denote that you are done.
+
