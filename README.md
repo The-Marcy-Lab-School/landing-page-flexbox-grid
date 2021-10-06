@@ -2,7 +2,7 @@
 ## Landing Page Recreation
 
 ### Purpose
-During the first week of class, you completed your first lab at the Marcy Lab School. You recreated a "landing page" using the basic markup, styling, and layout tools you learned during pre-work. Well that was an eternity ago and you have since added a **lot** of HTML and CSS tools to your toolkit. We are revisiting (a different version of) that landing page mockup and we are going to use CSS Grid and Flexbox to recreate it!
+During the first week of class, you completed your first lab at the Marcy Lab School. You recreated a "landing page" using the basic markup, styling, and layout tools you learned. Well that was an eternity ago and you have since added a **lot** of HTML and CSS tools to your toolkit. We are revisiting (a different version of) that landing page mockup and we are going to use CSS Grid and Flexbox to recreate it!
 
 This lab will illustrate for you, just how powerful layout tools are and how much more simply they allow you to write CSS!
 
