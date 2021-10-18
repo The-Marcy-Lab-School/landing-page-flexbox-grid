@@ -7,7 +7,8 @@ During the first week of class, you completed your first lab at the Marcy Lab Sc
 This lab will illustrate for you, just how powerful layout tools are and how much more simply they allow you to write CSS!
 
 ### Directions
-You are to recreate [this mockup](https://www.figma.com/proto/EGG0ERL0HRRWkXLx4hl4uH/Landing-Page-Lab-Grid?node-id=1%3A3&scaling=scale-down). This is not expected to be pixel perfect. You can customize the content and the colors but the layout should be **identical**.
+You are to recreate [this mockup](https://www.figma.com/proto/EGG0ERL0HRRWkXLx4hl4uH/Landing-Page-Lab-Grid?node-id=1%3A3&scaling=scale-down). This is not expected to be pixel perfect. The layout should be **identical**. You should copy the styling as closely as possible, but you can customize the content and the colors.
+
 **You are not allowed to use any `display` properties other than `grid` or `flex`.** 💪🏽
 
   1. If this is a *Practice or Pairing Lab*, fork this repo and clone down the forked repo **OR** if this is a *Lab Assignment* that was generate using Github classroom, then your repo name will end in your username. No need to fork, just clone this repo without forking it.
