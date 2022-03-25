@@ -1,4 +1,4 @@
-# Unit 1 Lesson 6 Lab: Grid 🏁
+# Unit 1 Lesson 6 Lab: Flexbox / Grid 🏁
 ## Landing Page Recreation
 
 ### Purpose
