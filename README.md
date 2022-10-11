@@ -7,7 +7,7 @@ During the first week of class, you completed your first lab at the Marcy Lab Sc
 This lab will illustrate for you, just how powerful layout tools are and how much more simply they allow you to write CSS!
 
 ### Directions
-You are to recreate [this mockup](https://www.figma.com/proto/EGG0ERL0HRRWkXLx4hl4uH/Landing-Page-Lab-Grid?node-id=1%3A3&scaling=scale-down). This is not expected to be pixel perfect. The layout should be **identical**. You should copy the styling as closely as possible, but you can customize the content and the colors.
+You are to recreate [this mockup](https://www.figma.com/proto/EGG0ERL0HRRWkXLx4hl4uH/Landing-Page-Lab-Grid?node-id=1%3A3&scaling=scale-down). This is not expected to be pixel perfect. The layout should be **identical**. You should copy the styling as closely as possible, but you can customize the content and the colors. The key features of this layout must include a header, two columns, and a footer at the bottom of the page. As the page size grows and shrinks, the header, two columns, and footer should grow and shrink with it.
 
 **You are not allowed to use any `display` properties other than `grid` or `flex`.** 💪🏽
 
